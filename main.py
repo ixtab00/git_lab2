@@ -1,6 +1,6 @@
 from divide_and_mul import mul, divide
 
-def main() -> None:
+ main() -> None:
     a = float(input())
     b = float(input())
     print(sub(a, b))
