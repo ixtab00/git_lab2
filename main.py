@@ -5,10 +5,8 @@ def main() -> None:
     b = float(input())
     print(sub(a, b))
     print(summ(a, b))
-<<<<<<< HEAD
-=======
     print(divide(a, b))
->>>>>>> test-div-and-mul
+    print(mul(a, b))
 
 
 def summ(a: float, b: float) -> float:
